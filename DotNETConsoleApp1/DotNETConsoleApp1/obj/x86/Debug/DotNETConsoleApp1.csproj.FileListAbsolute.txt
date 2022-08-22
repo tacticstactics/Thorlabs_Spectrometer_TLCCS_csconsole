@@ -1,0 +1,11 @@
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\bin\x86\Debug\DotNETConsoleApp1.exe.config
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\bin\x86\Debug\DotNETConsoleApp1.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\bin\x86\Debug\DotNETConsoleApp1.pdb
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\bin\x86\Debug\Thorlabs.ccs.interop.dll
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\bin\x86\Debug\Thorlabs.ccs.interop.xml
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.exe
+C:\Users\Techsupport_PC\source\repos\tacticstactics\Thorlabs_Spectrometer_TLCCS_csconsole\DotNETConsoleApp1\DotNETConsoleApp1\obj\x86\Debug\DotNETConsoleApp1.pdb
