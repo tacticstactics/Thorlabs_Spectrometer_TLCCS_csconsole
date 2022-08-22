@@ -63,7 +63,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="Thorlabs.ccs.interop, Version=2.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft.NET\Primary Interop Assemblies\Thorlabs.ccs.interop.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\IVI Foundation\VISA\VisaCom\Primary Interop Assemblies\Thorlabs.ccs.interop.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
